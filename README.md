@@ -1,4 +1,4 @@
-# Dataset Percakapan Publik Program Makan Bergizi Gratis (MBG) – 2025
+# Dataset Twitter/X Sentiment Program Makan Bergizi Gratis (MBG) – 2025
 
 ## Deskripsi Umum
 Repository ini berisi **dataset hasil crawling percakapan publik** dari platform **Twitter/X** yang berkaitan dengan **Program Makan Bergizi Gratis (MBG)** di Indonesia.
