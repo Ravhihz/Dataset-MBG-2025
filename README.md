@@ -9,7 +9,7 @@ Dataset dikumpulkan **khusus untuk kepentingan akademik dan penelitian**, serta 
 
 ## Periode Pengambilan Data
 - **Tanggal Mulai**   : 1 Januari 2025  
-- **Tanggal Akhir**   : 31 Desember 2025  
+- **Tanggal Akhir**   : 31 Oktober 2025  
 - **Rentang Waktu**   : 1 tahun penuh (longitudinal)
 
 Periode ini dipilih untuk menangkap dinamika sentimen publik secara komprehensif sepanjang tahun 2025.
